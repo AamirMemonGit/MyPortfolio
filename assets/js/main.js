@@ -51,7 +51,7 @@
   }
 
   /* Append settings HTML  */
-  rs_settings_append(true); /* if you want to enable dark mode, send "true" */
+  // rs_settings_append(true); /* if you want to enable dark mode, send "true" */
 
   /* Event listeners  */
   $(".rs-theme-settings-open-btn").on("click", function () {

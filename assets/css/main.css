@@ -13964,6 +13964,7 @@ html.lenis body {
 /*  slide text css
 /*----------------------------------------*/
 .rs-text-slide-one {
+  padding-top: 50px;
   padding-bottom: 50px;
 }
 .rs-text-slide-one .rs-text-slide-wrapper {
@@ -14796,7 +14797,7 @@ html.lenis body {
   z-index: 1;
 }
 .rs-contact-one .rs-contact-list {
-  max-width: 370px;
+  max-width: 390px;
 }
 .rs-contact-one .rs-contact-list-item {
   display: flex;
